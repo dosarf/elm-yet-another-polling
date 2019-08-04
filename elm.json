@@ -1,7 +1,7 @@
 {
     "type": "package",
     "name": "dosarf/elm-yet-another-polling",
-    "summary": "Yet another polling package polling",
+    "summary": "Yet another polling package",
     "license": "MIT",
     "version": "1.0.0",
     "exposed-modules": [
