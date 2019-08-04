@@ -12,3 +12,11 @@ You define
   of yours.
 
 You must feed back the result to the `update` method, and that's it.
+
+## Demo
+
+There is no live demo for this package, you need to build and set up
+[this demo](https://github.com/dosarf/elm-activemq/tree/master/demo) according to
+its instructions.
+* That demo polls an ActiveMQ service, via its REST API, using this package
+  to organize the polling loop.
